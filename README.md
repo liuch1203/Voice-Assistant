@@ -1,5 +1,5 @@
 <p align="center">
- <h3 align="center">Amigo -Voice assistant</h3>
+ <h3 align="center">Little Ann -Voice assistant</h3>
 
   <p align="center">
    Console Application which help to do your daily work routine.
@@ -15,7 +15,7 @@
 ## About The Project
   Console Application which help to do your daily work routine.
 
-Why Amigo:
+Why Little Ann:
 * It can search on wikipedia.
 * It can open YouTube, Spotify, Whatsapp (if installed on your pc) and other cool stuff.
 * You can easily add your command.
@@ -53,14 +53,6 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-
-<!-- CONTACT -->
-## Contact
-LinkedIn
-[Jaspreet Singh](https://www.linkedin.com/in/jaspreetsidhu13/)
-
-More Projects
-GitHub: [JaspreetSidhu3](https://github.com/jaspreetsidhu3)
 
 
 
